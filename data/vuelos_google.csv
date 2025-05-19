@@ -1,0 +1,25 @@
+departure_airport_id,arrival_airport_id,departure_date,departure_time,arrival_time,airline,travel_class,duration_min,price_clp,type,emissions_this_flight,emissions_difference_percent,stops
+DEL,ORD,2025-06-07,3:55 PM,8:45 AM,,Economy,1640,845072,Round trip,824,,1 stop
+DEL,ORD,2025-06-07,11:30 PM,9:16 AM,,Economy,1216,898346,Round trip,909,14,1 stop
+DEL,ORD,2025-06-07,3:25 AM,3:05 PM,,Economy,1330,914683,Round trip,2,26,1 stop
+DEL,ORD,2025-06-07,1:35 AM,1:50 PM,,Economy,1365,930427,Round trip,685,-14,1 stop
+DEL,ORD,2025-06-07,1:35 AM,11:55 AM,,Economy,1250,939029,Round trip,725,-9,1 stop
+DEL,ORD,2025-06-07,2:05 AM,7:14 PM,,Economy,1659,889436,Round trip,926,16,2 stop
+DEL,ORD,2025-06-07,2:05 AM,7:14 PM,,Economy,1659,889436,Round trip,884,11,2 stop
+DEL,ORD,2025-06-07,4:20 AM,3:05 PM,,Economy,1275,1001554,Round trip,43,31,1 stop
+DEL,ORD,2025-06-07,9:15 PM,8:45 AM,,Economy,215,1078900,Round trip,770,,1 stop
+DEL,ORD,2025-06-07,7:40 AM,5:25 PM,,Economy,1215,1096028,Round trip,804,,1 stop
+DEL,ORD,2025-06-07,2:40 AM,7:25 AM,,Economy,915,1346019,Round trip,878,10,Nonstop
+DEL,ORD,2025-06-07,5:15 AM,2:55 PM,,Economy,1210,1615455,Round trip,626,-21,1 stop
+DEL,ORD,2025-06-07,3:55 PM,8:45 AM,,Economy,1640,845072,Round trip,824,,1 stop
+DEL,ORD,2025-06-07,11:30 PM,9:16 AM,,Economy,1216,898346,Round trip,909,14,1 stop
+DEL,ORD,2025-06-07,3:25 AM,3:05 PM,,Economy,1330,914683,Round trip,2,26,1 stop
+DEL,ORD,2025-06-07,1:35 AM,1:50 PM,,Economy,1365,930427,Round trip,685,-14,1 stop
+DEL,ORD,2025-06-07,1:35 AM,11:55 AM,,Economy,1250,939029,Round trip,725,-9,1 stop
+DEL,ORD,2025-06-07,2:05 AM,7:14 PM,,Economy,1659,889436,Round trip,926,16,2 stop
+DEL,ORD,2025-06-07,2:05 AM,7:14 PM,,Economy,1659,889436,Round trip,884,11,2 stop
+DEL,ORD,2025-06-07,4:20 AM,3:05 PM,,Economy,1275,1001554,Round trip,43,31,1 stop
+DEL,ORD,2025-06-07,9:15 PM,8:45 AM,,Economy,215,1078900,Round trip,770,,1 stop
+DEL,ORD,2025-06-07,7:40 AM,5:25 PM,,Economy,1215,1096028,Round trip,804,,1 stop
+DEL,ORD,2025-06-07,2:40 AM,7:25 AM,,Economy,915,1346019,Round trip,878,10,Nonstop
+DEL,ORD,2025-06-07,5:15 AM,2:55 PM,,Economy,1210,1615455,Round trip,626,-21,1 stop

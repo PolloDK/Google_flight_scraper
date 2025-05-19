@@ -1,0 +1,1038 @@
+{
+  "search_metadata": {
+    "id": "6824c9fed02d2a469746fef0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bc8a9e5b77a06bae/6824c9fed02d2a469746fef0.json",
+    "created_at": "2025-05-14 16:51:10 UTC",
+    "processed_at": "2025-05-14 16:51:10 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&tfs=CBwQAhoeEgoyMDI1LTA3LTA3agcIARIDTEhScgcIARIDQU1TQgEBSAFwAZgBAg&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/bc8a9e5b77a06bae/6824c9fed02d2a469746fef0.html",
+    "prettify_html_file": "https://serpapi.com/searches/bc8a9e5b77a06bae/6824c9fed02d2a469746fef0.prettify",
+    "total_time_taken": 2.2
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "type": "2",
+    "departure_id": "LHR",
+    "arrival_id": "AMS",
+    "outbound_date": "2025-07-07"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 20:55"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 23:10"
+          },
+          "duration": 75,
+          "airplane": "Embraer 195 E2",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1016",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 49 kg"
+          ],
+          "plane_and_crew_by": "KLM Cityhopper"
+        }
+      ],
+      "total_duration": 75,
+      "carbon_emissions": {
+        "this_flight": 50000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -7
+      },
+      "price": 80,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01UWWFDZ2owUFJBQ0dnTlZVMFE0SEhEMFBRPT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAxNiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 08:40"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 11:00"
+          },
+          "duration": 80,
+          "airplane": "Airbus A321neo",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1002",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 36 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 37000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -31
+      },
+      "price": 89,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01ESWFDZ2lYUlJBQ0dnTlZVMFE0SEhDWFJRPT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAwMiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 16:10"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 18:30"
+          },
+          "duration": 80,
+          "airplane": "Airbus A320",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 440",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 52 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 53000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -2
+      },
+      "price": 104,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1ZDUVRRME1Cb0tDTzlRRUFJYUExVlRSRGdjY085USIsW1siTEhSIiwiMjAyNS0wNy0wNyIsIkFNUyIsbnVsbCwiQkEiLCI0NDAiXV1d"
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 06:30"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 08:50"
+          },
+          "duration": 80,
+          "airplane": "Airbus A321neo",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1000",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 36 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 37000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -31
+      },
+      "price": 80,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01EQWFDZ2owUFJBQ0dnTlZVMFE0SEhEMFBRPT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAwMCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 19:15"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 21:30"
+          },
+          "duration": 75,
+          "airplane": "Embraer 195 E2",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1014",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 49 kg"
+          ],
+          "plane_and_crew_by": "KLM Cityhopper"
+        }
+      ],
+      "total_duration": 75,
+      "carbon_emissions": {
+        "this_flight": 50000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -7
+      },
+      "price": 89,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01UUWFDZ2lYUlJBQ0dnTlZVMFE0SEhDWFJRPT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAxNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 19:30"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 21:50"
+          },
+          "duration": 80,
+          "airplane": "Airbus A320",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 444",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 52 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 53000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -2
+      },
+      "price": 100,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1ZDUVRRME5Cb0tDT0JORUFJYUExVlRSRGdjY09CTiIsW1siTEhSIiwiMjAyNS0wNy0wNyIsIkFNUyIsbnVsbCwiQkEiLCI0NDQiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 09:55"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 12:20"
+          },
+          "duration": 85,
+          "airplane": "Embraer 195 E2",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1004",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 49 kg"
+          ],
+          "plane_and_crew_by": "KLM Cityhopper"
+        }
+      ],
+      "total_duration": 85,
+      "carbon_emissions": {
+        "this_flight": 50000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -7
+      },
+      "price": 117,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01EUWFDZ2lBV3hBQ0dnTlZVMFE0SEhDQVd3PT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAwNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 06:40"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 09:00"
+          },
+          "duration": 80,
+          "airplane": "Airbus A320",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 428",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 52 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 53000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -2
+      },
+      "price": 117,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1ZDUVRReU9Cb0tDS0ZiRUFJYUExVlRSRGdjY0tGYiIsW1siTEhSIiwiMjAyNS0wNy0wNyIsIkFNUyIsbnVsbCwiQkEiLCI0MjgiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 11:45"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 14:00"
+          },
+          "duration": 75,
+          "airplane": "Airbus A321neo",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1006",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 36 kg"
+          ]
+        }
+      ],
+      "total_duration": 75,
+      "carbon_emissions": {
+        "this_flight": 37000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -31
+      },
+      "price": 140,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01EWWFDZ2pWYkJBQ0dnTlZVMFE0SEhEVmJBPT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAwNiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 17:10"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 19:30"
+          },
+          "duration": 80,
+          "airplane": "Embraer 195 E2",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1012",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 49 kg"
+          ],
+          "plane_and_crew_by": "KLM Cityhopper"
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 50000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -7
+      },
+      "price": 140,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01USWFDZ2pWYkJBQ0dnTlZVMFE0SEhEVmJBPT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAxMiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 08:25"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 10:45"
+          },
+          "duration": 80,
+          "airplane": "Airbus A321neo",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 430",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 41 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 42000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -22
+      },
+      "price": 156,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1ZDUVRRek1Cb0tDTE41RUFJYUExVlRSRGdjY0xONSIsW1siTEhSIiwiMjAyNS0wNy0wNyIsIkFNUyIsbnVsbCwiQkEiLCI0MzAiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 12:25"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 14:45"
+          },
+          "duration": 80,
+          "airplane": "Airbus A320",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 438",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 51 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 51000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -6
+      },
+      "price": 161,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1ZDUVRRek9Cb0tDTWQ5RUFJYUExVlRSRGdjY01kOSIsW1siTEhSIiwiMjAyNS0wNy0wNyIsIkFNUyIsbnVsbCwiQkEiLCI0MzgiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 14:35"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 16:55"
+          },
+          "duration": 80,
+          "airplane": "Airbus A320neo",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 432",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 45 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 46000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -15
+      },
+      "price": 165,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1ZDUVRRek1ob0xDTmFBQVJBQ0dnTlZVMFE0SEhEV2dBRT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIkJBIiwiNDMyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 19:45"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-07-07 22:00"
+          },
+          "duration": 75,
+          "airplane": "Airbus A220-300 Passenger",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Economy",
+          "flight_number": "AF 1181",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 54 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-07-08 08:40"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-08 10:00"
+          },
+          "duration": 80,
+          "airplane": "Boeing 737",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1402",
+          "ticket_also_sold_by": [
+            "Air France"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 46 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 640,
+          "name": "Paris Charles de Gaulle Airport",
+          "id": "CDG",
+          "overnight": true
+        }
+      ],
+      "total_duration": 795,
+      "carbon_emissions": {
+        "this_flight": 101000,
+        "typical_for_this_route": 54000,
+        "difference_percent": 87
+      },
+      "price": 170,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZzFCUmpFeE9ERjhTMHd4TkRBeUdnc0l5WVFCRUFJYUExVlRSRGdjY01tRUFRPT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJDREciLG51bGwsIkFGIiwiMTE4MSJdLFsiQ0RHIiwiMjAyNS0wNy0wOCIsIkFNUyIsbnVsbCwiS0wiLCIxNDAyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 11:50"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 14:10"
+          },
+          "duration": 80,
+          "airplane": "Airbus A320",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 434",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 51 kg"
+          ]
+        }
+      ],
+      "total_duration": 80,
+      "carbon_emissions": {
+        "this_flight": 51000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -6
+      },
+      "price": 196,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1ZDUVRRek5Cb0xDTW1ZQVJBQ0dnTlZVMFE0SEhESm1BRT0iLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIkJBIiwiNDM0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 14:45"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 17:00"
+          },
+          "duration": 75,
+          "airplane": "Embraer 195 E2",
+          "airline": "KLM",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+          "travel_class": "Economy",
+          "flight_number": "KL 1010",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 49 kg"
+          ],
+          "plane_and_crew_by": "KLM Cityhopper"
+        }
+      ],
+      "total_duration": 75,
+      "carbon_emissions": {
+        "this_flight": 50000,
+        "typical_for_this_route": 54000,
+        "difference_percent": -7
+      },
+      "price": 229,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ1pMVERFd01UQWFDd2lsc2dFUUFob0RWVk5FT0J4d3BiSUIiLFtbIkxIUiIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIktMIiwiMTAxMCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-07-07 17:30"
+          },
+          "arrival_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2025-07-07 20:05"
+          },
+          "duration": 95,
+          "airplane": "Airbus A320neo",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 915",
+          "legroom": "29 in",
+          "extensions": [
+            "Below average legroom (29 in)",
+            "In-seat USB outlet",
+            "Carbon emissions estimate: 63 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Frankfurt Airport",
+            "id": "FRA",
+            "time": "2025-07-07 21:05"
+          },
+          "arrival_airport": {
+            "name": "Amsterdam Airport Schiphol",
+            "id": "AMS",
+            "time": "2025-07-07 22:15"
+          },
+          "duration": 70,
+          "airplane": "Airbus A319",
+          "airline": "Lufthansa",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+          "travel_class": "Economy",
+          "flight_number": "LH 1002",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 65 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 60,
+          "name": "Frankfurt Airport",
+          "id": "FRA"
+        }
+      ],
+      "total_duration": 225,
+      "carbon_emissions": {
+        "this_flight": 130000,
+        "typical_for_this_route": 54000,
+        "difference_percent": 141
+      },
+      "price": 304,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+      "booking_token": "WyJDalJJZG1oNmMycEhXbWxrZEhkQlExVXlPV2RDUnkwdExTMHRMUzB0TFMwdGIzbDBNVUZCUVVGQlIyZHJlV2RCUlRCSVJHbEJFZ3hNU0RreE5YeE1TREV3TURJYUN3ajU3QUVRQWhvRFZWTkVPQnh3K2V3QiIsW1siTEhSIiwiMjAyNS0wNy0wNyIsIkZSQSIsbnVsbCwiTEgiLCI5MTUiXSxbIkZSQSIsIjIwMjUtMDctMDciLCJBTVMiLG51bGwsIkxIIiwiMTAwMiJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 80,
+    "price_level": "typical",
+    "typical_price_range": [
+      70,
+      135
+    ],
+    "price_history": [
+      [
+        1741996800,
+        97
+      ],
+      [
+        1742083200,
+        97
+      ],
+      [
+        1742169600,
+        93
+      ],
+      [
+        1742256000,
+        97
+      ],
+      [
+        1742342400,
+        87
+      ],
+      [
+        1742428800,
+        87
+      ],
+      [
+        1742515200,
+        87
+      ],
+      [
+        1742601600,
+        86
+      ],
+      [
+        1742688000,
+        86
+      ],
+      [
+        1742774400,
+        87
+      ],
+      [
+        1742860800,
+        87
+      ],
+      [
+        1742947200,
+        87
+      ],
+      [
+        1743033600,
+        86
+      ],
+      [
+        1743120000,
+        87
+      ],
+      [
+        1743206400,
+        87
+      ],
+      [
+        1743292800,
+        87
+      ],
+      [
+        1743375600,
+        87
+      ],
+      [
+        1743462000,
+        87
+      ],
+      [
+        1743548400,
+        87
+      ],
+      [
+        1743634800,
+        87
+      ],
+      [
+        1743721200,
+        78
+      ],
+      [
+        1743807600,
+        77
+      ],
+      [
+        1743894000,
+        77
+      ],
+      [
+        1743980400,
+        77
+      ],
+      [
+        1744066800,
+        76
+      ],
+      [
+        1744153200,
+        76
+      ],
+      [
+        1744239600,
+        77
+      ],
+      [
+        1744326000,
+        77
+      ],
+      [
+        1744412400,
+        78
+      ],
+      [
+        1744498800,
+        78
+      ],
+      [
+        1744585200,
+        78
+      ],
+      [
+        1744671600,
+        78
+      ],
+      [
+        1744758000,
+        79
+      ],
+      [
+        1744844400,
+        79
+      ],
+      [
+        1744930800,
+        79
+      ],
+      [
+        1745017200,
+        80
+      ],
+      [
+        1745103600,
+        80
+      ],
+      [
+        1745190000,
+        80
+      ],
+      [
+        1745276400,
+        79
+      ],
+      [
+        1745362800,
+        79
+      ],
+      [
+        1745449200,
+        80
+      ],
+      [
+        1745535600,
+        80
+      ],
+      [
+        1745622000,
+        80
+      ],
+      [
+        1745708400,
+        80
+      ],
+      [
+        1745794800,
+        80
+      ],
+      [
+        1745881200,
+        80
+      ],
+      [
+        1745967600,
+        80
+      ],
+      [
+        1746054000,
+        80
+      ],
+      [
+        1746140400,
+        80
+      ],
+      [
+        1746226800,
+        80
+      ],
+      [
+        1746313200,
+        80
+      ],
+      [
+        1746399600,
+        80
+      ],
+      [
+        1746486000,
+        80
+      ],
+      [
+        1746572400,
+        80
+      ],
+      [
+        1746658800,
+        79
+      ],
+      [
+        1746745200,
+        79
+      ],
+      [
+        1746831600,
+        80
+      ],
+      [
+        1746918000,
+        80
+      ],
+      [
+        1747004400,
+        79
+      ],
+      [
+        1747090800,
+        79
+      ],
+      [
+        1747177200,
+        80
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "LHR",
+            "name": "Heathrow Airport"
+          },
+          "city": "London",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "AMS",
+            "name": "Amsterdam Airport Schiphol"
+          },
+          "city": "Amsterdam",
+          "country": "Netherlands",
+          "country_code": "NL",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTHETZVxU4_OrKq24sf7n7HS_0ca3__1_Urs251dzMXLn16tZy8J8x5i1phGimLkrbGL2gDKGrA-U35g",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiH-EGCc5jbyYbopiqf-g80xO0O5pxPnlJESLyIsY2uvo-gB84S94Q4C9kNWoKQ_eQ3OU-6evapBnb7TquB4zg3p3fQEGA3wpbxxhRdx0"
+        }
+      ]
+    }
+  ]
+}
