@@ -327,4 +327,4 @@ async def scrape_google_flights(n_consultas=1):
         await browser.close()
 
 if __name__ == "__main__":
-    asyncio.run(scrape_google_flights(n_consultas=100))
+    asyncio.run(scrape_google_flights(n_consultas=500))

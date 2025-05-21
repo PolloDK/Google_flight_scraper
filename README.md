@@ -54,7 +54,3 @@ google-flights-scraper/
 ├── README.md
 └── LICENSE
 ```
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT.
