@@ -1,0 +1,11 @@
+# Ignorar carpeta de datos
+data/
+
+# Ignorar scripts específicos dentro de src/
+src/manual_scraping.py
+src/scrape_flights_amadeus.py
+src/scrape_flights.py
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
